@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "Cake tootsie roll halvah sweet bear claw I love chupa chups. Carrot cake bonbon muffin muffin I love cupcake ice cream marzipan cake."
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "Gingerbread ice cream cake candy canes tootsie roll I love lemon drops. Cake jelly-o carrot cake danish I love marshmallow."
+    },
+    {
+      "rating": "7",
+      "text": "Candy canes dessert carrot cake I love gummies I love. Toffee icing I love cake croissant candy canes. Apple pie danish candy I love brownie macaroon.",
+      "id": 4
+    },
+    {
+      "text": "Sweet roll marshmallow halvah lemon drops pastry dragée tootsie roll chocolate.",
+      "rating": 10,
+      "id": 5
+    },
+    {
+      "text": "Marzipan pie apple pie cake soufflé oat cake danish. Marzipan lemon drops tiramisu pie cake gummies sugar plum tiramisu I love.",
+      "rating": 7,
+      "id": 6
+    }
+  ]
+}
